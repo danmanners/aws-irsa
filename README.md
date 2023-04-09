@@ -1,4 +1,6 @@
-# aws-irsa-example
+# AWS IRSA (IAM Role for Kubernetes Service Accounts)
+
+> This repo was forked from [smalltown/aws-irsa-example](https://github.com/smalltown/aws-irsa-example), and I'm updating it for 2023 and for my environment to show folks functional examples of everything here.
 
 ![IRSA Workflow](https://miro.medium.com/max/973/1*gU0ZWiY_zyCv1mtzzDS9FA.png)
 
